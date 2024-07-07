@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.main {
+    background-color: #CC3B7B;
+    width: 50%;
+    height: 100vh;
+    margin-left: 25%;
+    position: absolute;
+}
+.sub {
+    background-color: white;
+   position: relative;
+   top: 90px;
+   left: 6.5rem;
+   border: 2px ;
+   width: 400px;
+   height: 22rem;
+   
+}
+h2 {
+    text-align: center;
+    font-family: "Pacifico", cursive;
+    font-weight: 1px;
+    font-style: normal;
+}
+.user {
+    border: 1px solid rgb(89, 88, 88);
+    width: 300px;
+    margin-left: 2.5rem;
+    padding: 10px;
+}
+.password {
+    border: 1px solid rgb(89, 88, 88);
+    width: 300px;
+    margin-left: 2.5rem;
+    padding: 10px;
+}
+.login {
+    width: 320px;
+    margin-left: 2.5rem;
+    padding: 10px;
+    background-color: #4CB5F9;
+    border-radius: 7px;
+    border: none;
+}
+.or {
+    text-align: center;
+}
+
+img {
+    width: 20px;
+    margin-left: 7rem;
+    
+
+}
+.facebook {
+    margin-left: 0.25rem;
+    color: blue;
+}
+.forgot {
+    text-align: center;
+    color: blue;
+}
+.signup {
+    border: 1px;
+    position: relative;
+    top: 110px;
+    left: 6.5rem;
+    width: 338px;
+    padding: 30px;
+    background-color: white;
+}
